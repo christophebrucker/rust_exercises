@@ -54,5 +54,8 @@ pub fn chunk(vector: Vec<usize>, number: usize) {
     println!("{:?}", new_vec);
   }
 
-  //for i in 0..array.len()
+  //count occurences
+  //pub fn occurencies(array: [char ; ]) {
+
+  //}
 }

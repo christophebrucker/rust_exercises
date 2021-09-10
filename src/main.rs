@@ -6,7 +6,8 @@ fn main() {
     //functions::sort([4,3,2,1]);
     //functions::remove("test", "t");
     //functions::sum([10,10,10,10,10,10,10,10,10,10]);
-    functions::chunk(vec![1,2,3,4],3);
+    //functions::chunk(vec![1,2,3,4],3);
+    //functions::occurencies(["a","a","b"]);
 }
 
 /*
