@@ -1,6 +1,6 @@
 use std::cmp;
 
-// reverse a string
+// reverse a string !
 pub fn reverse(string: &str) {
  println!("{}", string.chars().rev().collect::<String>());
 }
