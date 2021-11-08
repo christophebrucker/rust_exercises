@@ -8,7 +8,7 @@ fn main() {
     //functions::sum([10,10,10,10,10,10,10,10,10,10]);
     //functions::chunk(vec![1,2,3,4],3);
     //functions::occurencies(["a","a","b"]);
-    functions::greeting("Hello Chris !");
+    functions::greeting("Hello Chris !!");
 }
 
 /*
